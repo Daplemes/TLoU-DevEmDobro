@@ -30,6 +30,7 @@
         position: static;
         min-height: auto;
         width: 100%;
+        margin-top: 10px;
     }
 
     .menu-lateral ul{
@@ -42,7 +43,7 @@
     }
 
     .conteudo{
-        min-height: 80vh;
+        min-height: 90vh;
         gap: 50px;
     }
 }
